@@ -1,16 +1,23 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>プライバシーポリシー</title>
+</head>
+<body>
+  <h1>プライバシーポリシー</h1>
+  <p>
+    本アプリ（研究用Instagramデータ収集ツール）は、学術研究（観光地におけるSNS投稿分析）を目的として、
+    Instagramの公開情報（投稿内容、ハッシュタグ、投稿日、いいね数、コメント数、位置情報）を取得します。
+  </p>
+  <p>
+    取得した情報は、研究分析のみに使用し、第三者に提供することはありません。
+    個人情報の取得は行わず、Instagramアカウントの認証情報を保持することもありません。
+  </p>
+  <p>
+    データ削除やお問い合わせは以下のメールまでご連絡ください：<br>
+    thousad01wins@gmail.com
+  </p>
+</body>
+</html>
 
-<!--
-**thousand01wins/thousand01wins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
